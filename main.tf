@@ -22,7 +22,7 @@ resource "azurerm_resource_group" "ngn" {
   location = "West Europe"
 }
 
-resource "azurerm_resource_group" "ngw" {
-  name     = "newkkrg1"
+resource "azurerm_resource_group" "ngh" {
+  name     = "newkkrg2"
   location = "West Europe"
 }
