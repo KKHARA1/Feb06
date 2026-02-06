@@ -17,8 +17,8 @@ provider "azurerm" {
 
 }
 
-resource "azurerm_resource_group" "ngn" {
-  name     = "newkkrg"
+resource "azurerm_resource_group" "rgh" {
+  name     = "newkkrg567"
   location = "West Europe"
 }
 
