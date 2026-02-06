@@ -17,8 +17,8 @@ provider "azurerm" {
 
 }
 
-resource "azurerm_resource_group" "rgh" {
-  name     = "finalnewkkrg567"
+resource "azurerm_resource_group" "kkh" {
+  name     = "delete"
   location = "East Europe"
 }
 
